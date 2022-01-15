@@ -1,5 +1,5 @@
 # 🚀🚀🚀🚀🚀
-## 🐷 BankistApp
+## 🚩 Mapty
 
 ### Local Storage used
 
